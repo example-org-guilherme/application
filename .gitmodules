@@ -1,0 +1,9 @@
+[submodule "submodule-c"]
+	path = submodule-c
+	url = https://x-access-token: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@github.com/elevate-labs-with-guilherme/submodule-c.git
+[submodule "submodule-a"]
+	path = submodule-a
+	url = https://x-access-token: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@github.com/elevate-labs-with-guilherme/submodule-a.git
+[submodule "submodule-b"]
+	path = submodule-b
+	url = https://x-access-token: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@github.com/elevate-labs-with-guilherme/submodule-b.git
